@@ -1,0 +1,11 @@
+{
+  "name": "css-transformer",
+  "version": "0.0.1",
+  "description": "css3 transform tool",
+  "main": "index.js",
+  "dependencies": {
+    "transform-property": "0.0.1",
+    "has-translate3d": "0.0.3",
+    "debug": "1.0.4"
+  }
+}
