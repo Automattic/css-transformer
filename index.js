@@ -5,34 +5,8 @@
 
 var transformProperty = require('transform-property');
 var hasTranslate3d = require('has-translate3d');
+var transform_properties = require('./properties');
 var debug = require('debug')('css-transformer');
-
-/**
- * Current css transform properties
- */
-
-var transform_properties = [
-  'matrix',
-  'translate',
-  'translateX',
-  'translateY',
-  'scale',
-  'scaleX',
-  'scaleY',
-  'rotate',
-  'skewX',
-  'skewY',
-  'matrix',
-  'translate',
-  'translateZ',
-  'scale',
-  'scaleZ',
-  'rotate',
-  'rotateX',
-  'rotateY',
-  'rotateZ',
-  'perspective',
-];
 
 /**
  * Expose `MapLike`
