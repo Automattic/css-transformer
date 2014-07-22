@@ -26,7 +26,7 @@ var el = document.getElementById('my-element');
 var prps = transform(el);
 
 // set translate property
-prps.translate(200px);
+prps.translate(200);
 transform(el, prps);
 ```
 
