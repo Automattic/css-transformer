@@ -1,6 +1,6 @@
 # css-transformer
 
-JavaScript library tool to hanlder [css3
+JavaScript library tool to hanlde [css3
 transform](https://developer.mozilla.org/es/docs/Web/CSS/transform) property.
 
 ## Install
