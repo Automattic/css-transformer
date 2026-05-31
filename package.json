@@ -6,6 +6,6 @@
   "dependencies": {
     "transform-property": "0.0.1",
     "has-translate3d": "0.0.3",
-    "debug": "1.0.4"
+    "debug": "2.6.9"
   }
 }
